@@ -1,0 +1,9 @@
+{
+  "name": "ui-pro-v3-issues",
+  "private": true,
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@10.6.4"
+}
